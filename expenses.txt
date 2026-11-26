@@ -1,0 +1,11 @@
+2026-11-20,Rent,250.00,Monthly apartment share
+2026-11-21,Food,15.50,Campus cafeteria lunch
+2026-11-21,Transport,5.00,Bus pass refill
+2026-11-22,Shopping,45.20,Groceries for week
+2026-11-22,Bills,25.00,Mobile network plan
+2026-11-23,Food,12.00,Dinner with group
+2026-11-23,Transport,8.50,Subway ticket
+2026-11-24,Food,8.75,Coffee and breakfast bagel
+2026-11-24,Shopping,32.00,Textbook printing and stationery
+2026-11-25,Bills,18.50,Internet bill contribution
+2026-11-25,Food,14.25,Evening snacks
